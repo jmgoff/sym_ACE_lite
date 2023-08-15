@@ -1,0 +1,12 @@
+# ignoring run example files
+*pycache*
+
+# ignoring intermediate files
+*.swp
+
+# ignore MacOS generated files
+*.DS_Store
+
+# ignore PACE library files
+*.pickle
+
